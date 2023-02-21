@@ -1,20 +1,81 @@
-.b{
-    background-color: black;
-}
+
 .image{
     background-image: url("image6.jpg");
 }
 .hr{
     width: 1250px;
-    height: 10px;
+
+    color: white;
     
+}
+.hr1{
+    width: 90px;
+    color: white;
 }
 .bi{
     color: white;
+    font-weight: 700;
+    font-size: 70px;
+    margin-top: -780px;
+    background-color: rgba(255, 68, 0, 0.803);
     
 }
 .coded{
     color: white;
+    font-weight: 500;
     margin-top: -20px;
     margin-left: 30px;
+    font-size: 20px;
+}
+.pro{
+    position: relative;
+    color: white;
+    text-align: left;
+    margin-left: 20px;
+}
+.logo{
+    color: white;
+    font-weight: 500;
+    position: relative;
+    margin-left: 250px;
+    margin-top: 50px;
+    
+}
+.fly{
+    color: white;
+    font-weight: 300;
+    margin-left: 250px;
+    font-size: 50px;
+    margin-top: -50px;
+}
+.bus{
+    color: white;
+    font-size: 150px;
+    margin-left: 250px;
+}
+.cre{
+    color: white;
+    margin-left: 250px;
+}
+.a{
+    position: relative;
+    color: white;
+    font-weight: 800;
+    font-size: 100px;
+    margin-left: 250px;
+
+}
+.p1{
+    color: white;
+    position: relative;
+    text-align: right;
+    margin-right: 10px;
+}
+.h2{
+    color: white;
+    width: 30px;
+}
+.site{
+    color: white;
+    text-align: center;
 }
