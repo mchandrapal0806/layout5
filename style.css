@@ -1,0 +1,20 @@
+.b{
+    background-color: black;
+}
+.image{
+    background-image: url("image6.jpg");
+}
+.hr{
+    width: 1250px;
+    height: 10px;
+    
+}
+.bi{
+    color: white;
+    
+}
+.coded{
+    color: white;
+    margin-top: -20px;
+    margin-left: 30px;
+}
