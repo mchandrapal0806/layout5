@@ -17,7 +17,7 @@
     font-weight: 700;
     font-size: 70px;
     margin-top: -780px;
-    background-color: rgba(255, 68, 0, 0.803);
+    
     
 }
 .coded{
@@ -44,18 +44,18 @@
 .fly{
     color: white;
     font-weight: 300;
-    margin-left: 250px;
+    margin-left: 290px;
     font-size: 50px;
     margin-top: -50px;
 }
 .bus{
     color: white;
     font-size: 150px;
-    margin-left: 250px;
+    margin-left: 290px;
 }
 .cre{
     color: white;
-    margin-left: 250px;
+    margin-left: 290px;
 }
 .a{
     position: relative;
@@ -78,4 +78,27 @@
 .site{
     color: white;
     text-align: center;
+    margin-top: -360px;
+}
+.gra{
+    color: white;
+    margin-left: 50px;
+    padding-top: 50px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.simbol{
+   margin-top: 200px;
+}
+.sim{
+    color: white;
+   margin-top: -410px;
+   margin-left: 100px;
+}
+.phone{
+    padding-top: 400px;
+    padding-bottom: 50px;
+}
+.icon{
+    margin-top: 400px;
 }
